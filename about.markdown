@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 # Over ons
-TapToChill is een sociale applicatie, ontwikkeld om eenvoudig met je vrienden af te kunnen spreken. Het is beschikbaar op Android en iOS.
+TapToChill is een sociaal platform, dat is ontwikkeld om eenvoudig met vrienden af te spreken. Het is beschikbaar op Android en iOS.
 
 # Legal status
-TapToChill is nog in een vroege projectfase, en vormt nog geen rechtspersoon. Indien u vragen of opmerkingen over TapToChill heeft, gelieve contact met ons op te nemen
+TapToChill is nog in een vroege projectfase, en vormt nog geen rechtspersoon. Indien u vragen of opmerkingen over TapToChill heeft, gelieve contact met ons op te nemen.
 
 # Contact
 E-mail: [hi@taptochill.app](mailto:hi@taptochill.app)
