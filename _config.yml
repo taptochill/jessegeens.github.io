@@ -21,8 +21,8 @@
 title: TapToChill
 email: info@taptochill.app
 description: >- # this means to ignore newlines until "baseurl:"
-  TapToChill is een sociaal platform, ontwikkeld om eenvoudig met je vrienden
-  af te kunnen spreken. Het is geen geregistreerde onderneming.
+  TapToChill is een sociaal platform, ontwikkeld om eenvoudig met vrienden
+  af te spreken. Het is geen geregistreerde onderneming.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
