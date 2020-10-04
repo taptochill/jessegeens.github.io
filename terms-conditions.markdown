@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gebruikersvoorwaarden
+title: Gebruiksvoorwaarden
 permalink: /terms-conditions/
 ---
 
