@@ -4,7 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-#
 # **Privacy Policy**
 
 Welcome to TapToChill&#39;s Privacy Policy. Thank you for taking the time to read it.

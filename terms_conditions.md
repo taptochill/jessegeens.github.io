@@ -4,7 +4,6 @@ title: Terms and Conditions
 permalink: /terms-conditions/
 ---
 
-#
 # **TERMS OF USE**
 
 Last revised on October 5, 2021

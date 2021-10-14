@@ -7,7 +7,7 @@ This git repository contains all the files for the TapToChill legal website, hos
 ## Usage
 
 This site runs on Jekyll. Find installation instructions [here](https://jekyllrb.com/docs/installation/)
-When you have installed Jekyll, you can compile the static site by running `jekyll build` in your command line.
+When you have installed Jekyll, you can compile the static site by running `bundle exec jekyll build` in your command line.
 
 All pages are written in markdown, where a heading is prepended to the markdown file to indicate website metadata. An example from the privacy policy page:
 ```
