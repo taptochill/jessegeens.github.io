@@ -30,7 +30,7 @@ Nous sommes susceptibles de modifier le présent Accord et le Service à tout mo
 
 ## **2. Admissibilité.**
 
-Vous devez être âgé d&#39;au moins 18 ans pour pouvoir créer un compte sur TapToChill et utiliser le Service. En créant un compte et en utilisant le Service, vous déclarez et garantissez que :
+Vous devez être âgé d&#39;au moins 16 ans pour pouvoir créer un compte sur TapToChill et utiliser le Service. En créant un compte et en utilisant le Service, vous déclarez et garantissez que :
 
 - vous pouvez conclure un contrat créant des obligations avec TapToChill,
 - vous n&#39;êtes pas une personne à qui il est interdit d&#39;utiliser le Service en vertu des lois des États-Unis ou de toute autre juridiction applicable (par exemple, que vous n&#39;apparaissez pas sur la liste des Nationaux spécifiquement désignés établie par le Département du Trésor américain ni ne faites l&#39;objet d&#39;aucune autre interdiction similaire),
@@ -155,7 +155,7 @@ CERTAINES JURIDICTIONS NE PERMETTENT PAS L&#39;EXCLUSION OU LA LIMITATION DE CER
 
 Dans la mesure où ces Conditions vous autorisent, ainsi qu&#39;à TapToChill, à porter une action en justice devant un tribunal, aussi bien vous que TapToChill convenez que tous les différends et réclamations (qu&#39;ils soient de nature contractuelle ou autre) découlant de ou liés aux Conditions ou à l&#39;utilisation des Services seront exclusivement réglés par les tribunaux de Belgique, sauf si la loi du pays dans lequel vous résidez ne l&#39;autorise pas. Vous et TapToChill consentez à la compétence exclusive de ces tribunaux.
 
-## **18. Indemnisation à votre charge.**
+## **16. Indemnisation à votre charge.**
 
 Vous acceptez, dans la mesure permise par le droit applicable, d&#39;indemniser, de défendre et de dégager de toute responsabilité TapToChill, nos affiliés, ainsi que leurs cadres, directeurs, agents et employés respectifs et les nôtres contre toutes plaintes, demandes, réclamations, dommages et intérêts, les pertes, coûts, responsabilités et dépenses, y compris les honoraires d&#39;avocat dus à, résultant de, ou liés de quelque manière que ce soit à votre accès ou à votre utilisation du Service, à votre Contenu ou à votre violation du présent Accord.
 
@@ -262,7 +262,7 @@ Ne vous faites pas passer pour quelqu&#39;un, et n&#39;inventez pas une affiliat
 
 **Mineurs**
 
-Pour utiliser TapToChill, vous devez être âgé de 18 ans ou plus. Nous n&#39;autorisons donc pas de photos de mineurs non accompagnés. Si vous voulez publier des photos de vos enfants, assurez-vous aussi d&#39;être sur la photo. Si vous voyez un profil comprenant un mineur non accompagné, qui encourage la violence envers un mineur ou montre un mineur dans une pose suggestive ou sexuelle, veuillez le signaler immédiatement.
+Pour utiliser TapToChill, vous devez être âgé de 16 ans ou plus. Nous n&#39;autorisons donc pas de photos de mineurs non accompagnés. Si vous voulez publier des photos de vos enfants, assurez-vous aussi d&#39;être sur la photo. Si vous voyez un profil comprenant un mineur non accompagné, qui encourage la violence envers un mineur ou montre un mineur dans une pose suggestive ou sexuelle, veuillez le signaler immédiatement.
 
 **Droit d&#39;auteur et infraction au droit d&#39;auteur**
 

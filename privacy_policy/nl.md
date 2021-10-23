@@ -203,7 +203,7 @@ Houd er rekening mee dat hoewel onze systemen zijn ontworpen om verwijderingspro
 
 ### **12. Privacy van kinderen**
 
-Onze diensten zijn beperkt tot gebruikers van 18 jaar of ouder. We staan geen gebruikers jonger dan 18 jaar toe op ons platform en we verzamelen niet bewust persoonlijke informatie van iemand die jonger is dan 18 jaar. Als u vermoedt dat een gebruiker jonger dan 18 is, gebruikt u het meldingsmechanisme dat via de dienst beschikbaar is.
+Onze diensten zijn beperkt tot gebruikers van 16 jaar of ouder. We staan geen gebruikers jonger dan 16 jaar toe op ons platform en we verzamelen niet bewust persoonlijke informatie van iemand die jonger is dan 16 jaar. Als u vermoedt dat een gebruiker jonger dan 16 is, gebruikt u het meldingsmechanisme dat via de dienst beschikbaar is.
 
 ### **13. Wijzigingen aan het privacybeleid**
 

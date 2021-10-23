@@ -202,7 +202,7 @@ Keep in mind that even though our systems are designed to carry out data deletio
 
 ### **12. Children&#39;s Privacy**
 
-Our services are restricted to users who are 18 years of age or older. We do not permit users under the age of 18 on our platform and we do not knowingly collect personal information from anyone under the age of 18. If you suspect that a user is under the age of 18, please use the reporting mechanism available through the service.
+Our services are restricted to users who are 16 years of age or older. We do not permit users under the age of 16 on our platform and we do not knowingly collect personal information from anyone under the age of 16. If you suspect that a user is under the age of 16, please use the reporting mechanism available through the service.
 
 ### **13. Privacy Policy Changes**
 

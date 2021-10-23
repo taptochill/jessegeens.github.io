@@ -28,7 +28,7 @@ Wij kunnen van tijd tot tijd wijzigingen aanbrengen aan deze Overeenkomst en de 
 
 ## **2. Geschiktheid.**
 
-U moet ten minste 18 jaar oud zijn om een account aan te maken op TapToChill en om gebruik te maken van de Dienst. Door een account aan te maken en gebruik te maken van de Dienst, verklaart en garandeert u dat:
+U moet ten minste 16 jaar oud zijn om een account aan te maken op TapToChill en om gebruik te maken van de Dienst. Door een account aan te maken en gebruik te maken van de Dienst, verklaart en garandeert u dat:
 
 - u een bindende overeenkomst kunt aangaan met TapToChill,
 - u geen persoon bent die niet gebruik mag maken van de Dienst op grond van de wetten van de Verenigde Staten of een ander toepasselijk rechtsgebied (bijvoorbeeld: u staat niet op de lijst van het Amerikaanse Ministerie van Financiën van speciaal aangeduide staatsburgers (Specially Designated Nationals) of wordt niet weerhouden door een soortgelijk verbod),
@@ -152,7 +152,7 @@ SOMMIGE RECHTSGEBIEDEN STAAN DE UITSLUITING OF BEPERKING VAN BEPAALDE SCHADE NIE
 
 Voor zover het de partijen op grond van deze Voorwaarden is toegestaan een rechtszaak te starten, komen jij en TapToChill overeen dat alle vorderingen en geschillen (op basis van een overeenkomst of anderszins) voortvloeiend uit of in verband met de Voorwaarden of het gebruik van de Diensten uitsluitend worden voorgelegd aan de rechtbanken in België, tenzij de wetgeving van het land waarin je woont dit verbiedt. Jij en TapToChill stemmen in met de exclusieve rechtsbevoegdheid van deze gerechtshoven.
 
-## **18. Vrijwaring door u.**
+## **16. Vrijwaring door u.**
 
 U gaat ermee akkoord om, voor zover toegestaan op grond van het toepasselijke recht, TapToChill, onze partners, en hun en onze respectieve functionarissen, bestuurders, vertegenwoordigers en werknemers te vrijwaren en verdedigen tegen en schadeloos te stellen voor enige en alle klachten, eisen, claims, schade, verliezen, kosten, aansprakelijkheden en uitgaven, waaronder advocatenhonoraria, als gevolg van of voortvloeiend uit, of verband houdend met uw toegang tot of gebruik van de Dienst, uw Content of uw schending van deze Overeenkomst.
 
@@ -259,7 +259,7 @@ Boots geen persoon of entiteit na en doe niet alsof je met een persoon of entite
 
 **Minderjarigen**
 
-Je moet 18 jaar of ouder zijn om TapToChill te gebruiken. Als zodanig staan we geen afbeeldingen toe van niet-begeleide minderjarigen. Als je foto&#39;s van je kinderen wilt plaatsen, zorg er dan voor dat je ook op de foto staat. Als je een profiel ziet dat een niet-begeleide minderjarige bevat, waarin letsel aan een minderjarige wordt aangemoedigd of een minderjarige op een seksuele of suggestieve manier weergeeft, meld dit dan onmiddellijk.
+Je moet 16 jaar of ouder zijn om TapToChill te gebruiken. Als zodanig staan we geen afbeeldingen toe van niet-begeleide minderjarigen. Als je foto&#39;s van je kinderen wilt plaatsen, zorg er dan voor dat je ook op de foto staat. Als je een profiel ziet dat een niet-begeleide minderjarige bevat, waarin letsel aan een minderjarige wordt aangemoedigd of een minderjarige op een seksuele of suggestieve manier weergeeft, meld dit dan onmiddellijk.
 
 **Inbreuk op copyright en handelsmerken**
 

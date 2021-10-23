@@ -205,7 +205,7 @@ Gardez à l&#39;esprit que même si nos systèmes sont conçus pour mener à bie
 
 ### **12. Confidentialité des enfants**
 
-Nos services sont limités aux utilisateurs de 18 ans ou plus. Nous n&#39;autorisons pas les utilisateurs âgés de moins de 18 ans sur notre plateforme et nous ne recueillons pas sciemment les informations personnelles de quiconque est âgé de moins de 18 ans. Si vous soupçonnez qu&#39;un utilisateur est âgé de moins de 18 ans, veuillez utiliser le mécanisme de signalement à votre disposition dans le service.
+Nos services sont limités aux utilisateurs de 16 ans ou plus. Nous n&#39;autorisons pas les utilisateurs âgés de moins de 16 ans sur notre plateforme et nous ne recueillons pas sciemment les informations personnelles de quiconque est âgé de moins de 16 ans. Si vous soupçonnez qu&#39;un utilisateur est âgé de moins de 16 ans, veuillez utiliser le mécanisme de signalement à votre disposition dans le service.
 
 ### **13. Modifications de la politique de confidentialité**
 

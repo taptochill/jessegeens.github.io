@@ -28,7 +28,7 @@ We may make changes to this Agreement and to the Service from time to time. We m
 
 ## **2. Eligibility.**
 
-You must be at least 18 years of age to create an account on TapToChill and use the Service. By creating an account and using the Service, you represent and warrant that:
+You must be at least 16 years of age to create an account on TapToChill and use the Service. By creating an account and using the Service, you represent and warrant that:
 
 - you can form a binding contract with TapToChill,
 - you are not a person who is barred from using the Service under the laws of the United States or any other applicable jurisdiction (for example, you do not appear on the U.S. Treasury Department&#39;s list of Specially Designated Nationals or face any other similar prohibition),
@@ -152,7 +152,7 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, 
 
 To the extent the parties are permitted under these Terms to initiate litigation in a court, both you and TapToChill agree that all claims and disputes (whether contractual or otherwise) arising out of or relating to the Terms or the use of the Services will be litigated exclusively in the Belgium court, unless this is prohibited by the laws of the country where you reside. You and TapToChill consent to the exclusive jurisdiction of those courts.
 
-## **18. Indemnity by You.**
+## **16. Indemnity by You.**
 
 You agree, to the extent permitted under applicable law, to indemnify, defend and hold harmless TapToChill, our affiliates, and their and our respective officers, directors, agents, and employees from and against any and all complaints, demands, claims, damages, losses, costs, liabilities and expenses, including attorney&#39;s fees due to, arising out of, or relating in any way to your access to or use of the Service, your Content, or your breach of this Agreement.
 
@@ -259,7 +259,7 @@ Do not impersonate, or otherwise misrepresent affiliation, connection or associa
 
 **Minors**
 
-You must be 18 years of age or older to use TapToChill. As such, we do not allow images of unaccompanied minors. If you want to post photos of your children, please make sure that you are in the photo as well. If you see a profile that includes an unaccompanied minor, encourages harm to a minor, or depicts a minor in a sexual or suggestive way, please report it immediately.
+You must be 16 years of age or older to use TapToChill. As such, we do not allow images of unaccompanied minors. If you want to post photos of your children, please make sure that you are in the photo as well. If you see a profile that includes an unaccompanied minor, encourages harm to a minor, or depicts a minor in a sexual or suggestive way, please report it immediately.
 
 **Copyright and Trademark Infringement**
 
