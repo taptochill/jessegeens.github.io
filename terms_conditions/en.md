@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terms and Conditions
-permalink: /terms-conditions/
+title: Terms and Conditions (EN)
+permalink: /terms-conditions/en/
 ---
 
 # **TERMS OF USE**
