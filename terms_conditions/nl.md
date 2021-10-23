@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms and Conditions
+title: Terms and Conditions (NL)
 permalink: /terms-conditions/nl/
 ---
 
